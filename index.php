@@ -26,7 +26,7 @@
              </div>
              <!---our__clients__block---->
              <div class="main__clients__block">
-                
+                    Нaши клиенты блок
              </div>
 
              <!---footer---->

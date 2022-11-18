@@ -7,5 +7,8 @@
     <title>A-Group Sığorta Şirkəti</title>
     <!---all styles---->
     <link rel="stylesheet" href="./styles/style.css">
+    <!--header styles--->
     <link rel="stylesheet" href="./styles/header.css">
+    <!----footer styles---->
+    <link rel="stylesheet" href="./styles/footer.css">
 </head>
