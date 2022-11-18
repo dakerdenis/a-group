@@ -20,8 +20,83 @@ color: #fff;
 .footer__block:nth-child(2) {
     width: 65%;
     height: 100%;
-    background-color: #fff;
+    background-color:  rgba(255, 255, 255, 1);
+    padding: 15px;
+}
+.footer__block__info_block_wrapper {
+    display: flex;
+
+    justify-content: space-evenly;
+}
+.footer__block__info_block_ {
+    width: 40%;
+}
+.footer__block__info__name {
+    color: #BC1A1A;
+    font-weight: 500;
+    font-size: 36px;
+    
+}
+.footer__name__undeline {
+    margin-top: 8px;
+    height: 2px;
+    width: 30%;
+    background-color: #BC1A1A;
+}
+.footer__block__info_block_elements {
+    margin-top: 15px;
+}
+.footer__block__info_block_elements a {
+    text-transform: uppercase;
+    margin-top: 10px;
+    display: block;
+    color: #000;
+    cursor: pointer    ;
+    transition: ease-in-out 0.15s;
+}
+.footer__block__info_block_elements a:hover{
+    color: #BC1A1A;
+}
+.footer__block__additional_info {
+    margin-top: 20px;
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-evenly;
+}
+.footer__block__additional_info_logo {
+}
+.footer__block__additional_info__line {
+}
+.footer__block__additional_info_symbols {
+
+    width: 18%;
+    display: flex;
+    justify-content: space-between;
+}
+.footer__block__additional_info_symbols a {
+    display: block;
+    font-size: 28px;
+    color: #BC1A1A;
+}
+.fa {
+}
+.fa-facebook {
+}
+.fa-instagram {
+}
+.fa-youtube {
+}
+.fa-twitter {
+}
+.fa-whatsapp {
+}
+.footer__block__rights_infobank {
+    margin-top: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.footer__block__rights_infobank img {
+    height: 40px;
+    width: 222px;
 }

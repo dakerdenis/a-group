@@ -11,12 +11,12 @@
                         <div class="footer__name__undeline"></div>
                     </div>
                     <div class="footer__block__info_block_elements">
-                        <p> ŞİRKƏT HAQQINDA </p>
-                        <p> MALİYYƏ GÖSTƏRİCİLƏRİ</p>
-                        <p> MÜŞTƏRİ RƏYLƏRİ</p>
-                        <p> RƏHBƏRLİK</p>
-                        <p> FAQ</p>
-                        <p> SIĞORTA QAYDALARI</p>
+                        <a href="#"> ŞİRKƏT HAQQINDA </a>
+                        <a href="#"> MALİYYƏ GÖSTƏRİCİLƏRİ</a>
+                        <a href="#"> MÜŞTƏRİ RƏYLƏRİ</a>
+                        <a href="#"> RƏHBƏRLİK</a>
+                        <a href="#"> FAQ</a>
+                        <a href="#"> SIĞORTA QAYDALARI</a>
                     </div>
                 </div>
                 <div class="footer__block__info_block_">
@@ -25,11 +25,11 @@
                         <div class="footer__name__undeline"></div>
                     </div>
                     <div class="footer__block__info_block_elements">
-                        <p> KLİNİKALARIN, APTEKLƏRİN VƏ OPTİKLƏRİN SİYAHISI</p>
-                        <p> DƏRMANLARIN AXTARIŞI</p>
-                        <p> XƏBƏRLƏR</p>
-                        <p> ƏLAQƏ</p>
-                        <p> ŞIKAYƏTLƏR</p>
+                        <a href="#"> KLİNİKALARIN, APTEKLƏRİN VƏ OPTİKLƏRİN SİYAHISI</a>
+                        <a href="#"> DƏRMANLARIN AXTARIŞI</a>
+                        <a href="#"> XƏBƏRLƏR</a>
+                        <a href="#"> ƏLAQƏ</a>
+                        <a href="#"> ŞIKAYƏTLƏR</a>
                     </div>
                 </div>
             </div>
@@ -42,21 +42,32 @@
                 </div>
                 <div class="footer__block__additional_info_symbols">
                     <a href="#">
-                    <i class="fa fa-facebook" aria-hidden="true"></i>
+                        <i class="fa fa-facebook" aria-hidden="true"></i>
                     </a>
-                    <a href="#">
 
+                    <a href="#">
+                        <i class="fa fa-instagram" aria-hidden="true"></i>
                     </a>
-                    <a href="#">
 
+                    <a href="#">
+                        <i class="fa fa-youtube"></i>
                     </a>
-                    <a href="#">
 
+                    <a href="#">
+                        <i class="fa fa-twitter" aria-hidden="true"></i>
                     </a>
-                    <a href="#">
 
+                    <a href="#">
+                        <i class="fa fa-whatsapp" aria-hidden="true"></i>
                     </a>
                 </div>
+            </div>
+            <div class="footer__block__rights_infobank">
+                <p>
+                    © “A-Qroup Sığorta Şirkəti” ASC 1995-2020
+                </p>
+
+                <img src="./styles/imgs/infobank.svg" alt="">
             </div>
         </div>
     </div>
