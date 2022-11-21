@@ -1,7 +1,30 @@
 <div class="footer">
     <div class="footer__container">
         <div class="foter__block">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum explicabo nihil molestiae excepturi, necessitatibus tempore, tempora eligendi repudiandae provident minima laudantium a, fugiat aperiam recusandae ipsam incidunt. Delectus, at odio.
+            <div class="footer__block_1_name">
+                MİSSİYAMIZ
+            </div>
+            <div class="footer__block_1_desc">
+
+                A-QROUP Azərbaycan sığorta sistemini inkişaf etdirən və sığorta bazarında müştərilərin artan tələbatını qarşılaya bilən stabil bir şirkət kimi fəaliyyət göstərməyi hədəf seçmişdir
+
+            </div>
+            <div class="footer__block_1_contact">
+                <div class="footer__block_1_contact_desc">
+                    Sualınız varsa, zəng edin
+                </div>
+                <div class="footer__block_1_contact_info">
+                    *0909
+                </div>
+            </div>
+            <div class="footer__block_1_contact">
+                <div class="footer__block_1_contact_desc">
+                    Bizə yazın
+                </div>
+                <div class="footer__block_1_contact_info">
+                    support@a-group.az
+                </div>
+            </div>
         </div>
         <div class="footer__block">
             <div class="footer__block__info_block_wrapper">
@@ -66,8 +89,10 @@
                 <p>
                     © “A-Qroup Sığorta Şirkəti” ASC 1995-2020
                 </p>
-
+                
+                <a href="https://infobank.az/">
                 <img src="./styles/imgs/infobank.svg" alt="">
+                </a>
             </div>
         </div>
     </div>
